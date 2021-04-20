@@ -14,4 +14,7 @@ Some script's basic informations could be in the header, like:
 
 ## Comments
 
+* Use simple comments, few words as possible.
+
 ## Code
+
